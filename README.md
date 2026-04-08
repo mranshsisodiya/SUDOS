@@ -1,5 +1,4 @@
 # SUDOS -- Smart Urban Delivery Optimization System
-**Design and Analysis of Algorithms Project | VIT Vellore**
 **City: Delhi, Noida & NCR | 200 Real Locations | 5 Algorithms**
 
 ---
